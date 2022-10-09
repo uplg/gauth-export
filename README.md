@@ -20,4 +20,4 @@ If the QR Code doesn't work for you, try scanning it with another app and enter 
 
 ## License
 
-Copyright (c) 2021 korki / [MIT License](./LICENSE)
+[MIT License](./LICENSE)
