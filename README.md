@@ -1,7 +1,7 @@
 # [gauth-export](https://ga.mimisiku.dev)
 
-![Status](https://status.mimisiku.network/api/badge/12/status)
-![Uptime](https://status.mimisiku.network/api/badge/12/uptime)
+![Status](https://status.mimisiku.dev/api/badge/6/status)
+![Uptime](https://status.mimisiku.dev/api/badge/6/uptime)
 
 Transform Google Authenticator Migration QR Codes to plain otpauth URIs.
 
